@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\Divisible\Divisible\bin\Debug\netcoreapp3.1\Divisible.exe
+C:\Users\asus\source\repos\Divisible\Divisible\bin\Debug\netcoreapp3.1\Divisible.deps.json
+C:\Users\asus\source\repos\Divisible\Divisible\bin\Debug\netcoreapp3.1\Divisible.runtimeconfig.json
+C:\Users\asus\source\repos\Divisible\Divisible\bin\Debug\netcoreapp3.1\Divisible.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Divisible\Divisible\bin\Debug\netcoreapp3.1\Divisible.dll
+C:\Users\asus\source\repos\Divisible\Divisible\bin\Debug\netcoreapp3.1\Divisible.pdb
+C:\Users\asus\source\repos\Divisible\Divisible\obj\Debug\netcoreapp3.1\Divisible.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Divisible\Divisible\obj\Debug\netcoreapp3.1\Divisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Divisible\Divisible\obj\Debug\netcoreapp3.1\Divisible.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Divisible\Divisible\obj\Debug\netcoreapp3.1\Divisible.AssemblyInfo.cs
+C:\Users\asus\source\repos\Divisible\Divisible\obj\Debug\netcoreapp3.1\Divisible.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Divisible\Divisible\obj\Debug\netcoreapp3.1\Divisible.dll
+C:\Users\asus\source\repos\Divisible\Divisible\obj\Debug\netcoreapp3.1\Divisible.pdb
+C:\Users\asus\source\repos\Divisible\Divisible\obj\Debug\netcoreapp3.1\Divisible.genruntimeconfig.cache
